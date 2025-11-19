@@ -819,14 +819,15 @@ Command Lines
 <li>
 <a href="https://simpletutorials.com/c/vim/uldvdk5l/simple-vim-reference">Simple Vim reference</a>
 </li>
-</details>
 
-DSA
+<details>
+<summary>
+Command Lines
 </summary>
 <li>
 <a href="https://github.com/remuz-br/algs4-py">Algorithm 4th edition</a>
 </li>
-</details>
+
 
 <details>
 <summary>
