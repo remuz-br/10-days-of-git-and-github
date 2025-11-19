@@ -818,15 +818,15 @@ Command Lines
 <a href="https://www.nano-editor.org/dist/latest/cheatsheet.html">Nano's shortcuts</a>
 <li>
 <a href="https://simpletutorials.com/c/vim/uldvdk5l/simple-vim-reference">Simple Vim reference</a>
-</li>
+</li></details>
 
 <details>
 <summary>
-Command Lines
+DSA
 </summary>
 <li>
 <a href="https://github.com/remuz-br/algs4-py">Algorithm 4th edition</a>
-</li>
+</li></details>
 
 
 <details>
