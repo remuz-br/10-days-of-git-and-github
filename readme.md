@@ -821,6 +821,13 @@ Command Lines
 </li>
 </details>
 
+DSA
+</summary>
+<li>
+<a href="https://github.com/remuz-br/algs4-py">Algorithm 4th edition</a>
+</li>
+</details>
+
 <details>
 <summary>
 Git and GitHub
